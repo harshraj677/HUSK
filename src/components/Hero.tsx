@@ -52,7 +52,7 @@ export default function Hero() {
           </h2>
           
           <p className="text-base md:text-lg text-text-gray max-w-xl mb-10 leading-relaxed font-light">
-            HUSX embodies Hussain’s vision, ambition, and commitment to building beyond limits—transforming bold ideas into innovative businesses, products, and solutions for the future.
+            HUSX Group is a diversified, future-focused organization building and supporting innovative businesses, products, and solutions designed to create long-term impact.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">

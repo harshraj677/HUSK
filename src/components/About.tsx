@@ -43,8 +43,11 @@ export default function About() {
               About <span className="text-gradient-gold">HUSX Group</span>
             </motion.h2>
             
+            <motion.p variants={fadeIn} className="text-lg text-text-gray mb-6 font-light leading-relaxed">
+              HUSX Group is a diversified, future-focused organization that builds and supports businesses, products, and solutions designed to create long-term impact.
+            </motion.p>
             <motion.p variants={fadeIn} className="text-lg text-text-gray mb-12 font-light leading-relaxed">
-              HUSX embodies Hussain’s vision, ambition, and commitment to building beyond limits—transforming bold ideas into innovative businesses, products, and solutions for the future.
+              Driven by innovation and responsible growth, HUSX Group focuses on creating meaningful solutions, building strong partnerships, and developing opportunities for long-term value.
             </motion.p>
             
             <motion.div variants={fadeIn} className="grid grid-cols-1 sm:grid-cols-3 gap-8 w-full mb-12 border-t border-white/10 pt-10">
@@ -54,7 +57,7 @@ export default function About() {
               </div>
               <div>
                 <h3 className="text-text-white font-medium text-sm uppercase tracking-wider mb-2">Future Focused</h3>
-                <p className="text-text-gray text-sm leading-relaxed">Building for changing markets and emerging opportunities.</p>
+                <p className="text-text-gray text-sm leading-relaxed">Building for emerging opportunities and changing markets.</p>
               </div>
               <div>
                 <h3 className="text-text-white font-medium text-sm uppercase tracking-wider mb-2">Long-Term Impact</h3>

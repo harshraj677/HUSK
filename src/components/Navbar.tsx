@@ -34,9 +34,8 @@ export default function Navbar() {
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-8 flex items-center justify-between">
         {/* Logo */}
-        <div className="flex-shrink-0 cursor-pointer text-2xl font-heading font-bold flex items-center">
-          <span className="text-text-white">HUSX</span>
-          <span className="text-gold-main ml-1 text-sm uppercase tracking-widest mt-1">Group</span>
+        <div className="flex-shrink-0 cursor-pointer flex items-center">
+          <img src="/husk.jpg" alt="HUSX Group" className="h-10 md:h-12 w-auto object-contain" />
         </div>
 
         {/* Desktop Nav */}
