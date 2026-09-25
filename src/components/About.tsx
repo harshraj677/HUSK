@@ -44,7 +44,7 @@ export default function About() {
             </motion.h2>
             
             <motion.p variants={fadeIn} className="text-lg text-text-gray mb-6 font-light leading-relaxed">
-              HUSX Group is a diversified, future-focused organization that builds and supports businesses, products, and solutions designed to create long-term impact.
+              HUSX embodies a vision, ambition, and commitment to building beyond limits—transforming bold ideas into innovative businesses, products, and solutions for the future.
             </motion.p>
             <motion.p variants={fadeIn} className="text-lg text-text-gray mb-12 font-light leading-relaxed">
               Driven by innovation and responsible growth, HUSX Group focuses on creating meaningful solutions, building strong partnerships, and developing opportunities for long-term value.
