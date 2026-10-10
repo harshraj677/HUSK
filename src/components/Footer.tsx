@@ -46,10 +46,9 @@ export default function Footer() {
           <div>
             <h4 className="text-text-white font-medium text-sm uppercase tracking-wider mb-6">Connect</h4>
             <ul className="space-y-3">
-              <li><a href="#" className="text-text-gray hover:text-gold-main transition-colors text-sm">LinkedIn</a></li>
-              <li><a href="#" className="text-text-gray hover:text-gold-main transition-colors text-sm">Instagram</a></li>
-              <li><a href="#" className="text-text-gray hover:text-gold-main transition-colors text-sm">X</a></li>
-              <li><a href="#" className="text-text-gray hover:text-gold-main transition-colors text-sm">YouTube</a></li>
+              <li><a href="mailto:husxgroup@gmail.com" className="text-text-gray hover:text-gold-main transition-colors text-sm">Email</a></li>
+              <li><a href="https://www.instagram.com/husxgroup?stkn=MWdqZ3dpZnlwcjF0aA==" target="_blank" rel="noopener noreferrer" className="text-text-gray hover:text-gold-main transition-colors text-sm">Instagram</a></li>
+              <li><a href="https://www.youtube.com/@husxgroup" target="_blank" rel="noopener noreferrer" className="text-text-gray hover:text-gold-main transition-colors text-sm">YouTube</a></li>
             </ul>
           </div>
           

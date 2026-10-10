@@ -86,8 +86,8 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-text-white font-medium text-sm uppercase tracking-wider mb-1">Email</h3>
-                  <a href="mailto:info@husxgroup.com" className="text-text-gray hover:text-gold-main transition-colors duration-300 text-lg">
-                    info@husxgroup.com
+                  <a href="mailto:husxgroup@gmail.com" className="text-text-gray hover:text-gold-main transition-colors duration-300 text-lg">
+                    husxgroup@gmail.com
                   </a>
                 </div>
               </div>
